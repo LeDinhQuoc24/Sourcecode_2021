@@ -1,0 +1,40 @@
+{
+    "save": "Save",
+    "cancel": "Cancel",
+    "canceled": "Canceled",
+    "search": "Enter key search",
+    "close": "Close",
+    "update": "Update",
+    "dialog_open":"Dialog opened",
+    "input_long": "Input too long!",
+    "back": "Back to List Customer",
+    "Customer": {
+        "name": "Name",
+        "email": "E-mail",
+        "age": "Age",
+        "street": "Street",
+        "city": "City",
+        "action": "Action"
+    },
+  "ListCustomer": {
+      "title": "ListCustomer"
+  },
+    "CreateCustomer": {
+        "title": "Create New Customer",
+        "successful": "Create New Customer Successfully"
+    },
+    "EditCustomer": {
+        "title": "Edit Customer",
+        "successful": "Edit Customer Successfully"
+
+    },
+    "DeleteCustomer": {
+        "title": "Are you sure you want to delete this customer?",
+        "successful": "Delete Customer Successfully"
+    },
+    "Validate": {
+        "agree": "Do you agree ?",
+        "agree_to_continue": "You must agree to continue!"
+    }
+
+}
