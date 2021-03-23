@@ -1,0 +1,37 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\Task\\\\Laravel_passport\\\\Client\\\\Laravel_Passport_Client\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_2c615728"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\Task\\\\Laravel_passport\\\\Client\\\\Laravel_Passport_Client\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_05e6cc27"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "D:\\\\Task\\\\Laravel_passport\\\\Client\\\\Laravel_Passport_Client\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_631b6bbb"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\Task\\\\Laravel_passport\\\\Client\\\\Laravel_Passport_Client\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_9a30133e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Task\\\\Laravel_passport\\\\Client\\\\Laravel_Passport_Client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cc5df638"
+  }
+]

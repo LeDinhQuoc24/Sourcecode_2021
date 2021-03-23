@@ -1,0 +1,19 @@
+{
+  "name": "Laravel_Passport_Client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1616003482.75c20e6",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}

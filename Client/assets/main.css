@@ -1,0 +1,8 @@
+@font-face {
+  font-family: '123';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  color:red;
+  src: url('~assets/fonts/UTM ThuPhap Thien An.ttf') format('truetype');
+}
